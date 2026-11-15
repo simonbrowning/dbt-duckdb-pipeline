@@ -9,6 +9,8 @@ wheels/
 # Virtual environments
 .venv
 .vscode
-# DuckDB database files
-data/*.duckdb
-data/*.duckdb.wal
+#Data files
+*.duckdb
+*.duckdb.wal
+data/
+logs/
