@@ -1,0 +1,33 @@
+==================== 2026-11-15T15:57:55.639885Z | 01a1dfed-f221-7261-baa4-1fa7259b43a0 ====================
+15:57:55.644551 [info ]: Installing dbt project and profile setup
+15:57:55.666767 [info ]: Info Created .vscode/extensions.json with dbt extension recommendation
+15:57:55.669417 [info ]: Success Project created successfully!
+15:57:55.669652 [info ]: Info Project name: jaffle_shop
+15:57:55.669669 [info ]: Info Project directory: jaffle_shop
+15:57:55.670088 [info ]: Info Setting up your profile...
+15:57:55.672183 [info ]: Info Creating new profile...
+15:58:03.684522 [error]: [IoError (dbt1001)]: Failed to get adapter selection: IO error: read interrupted
+15:58:03.727759 [info ]: 
+==================== Execution Summary =====================
+Finished 'init' with 1 error [8.1s]
+==================== 2026-11-15T15:58:18.550023Z | 01a1dfee-4ba9-71a1-9f9d-5c3b2219c919 ====================
+15:58:18.553336 [info ]: Installing dbt project and profile setup
+15:58:18.561469 [info ]: Info Created .vscode/extensions.json with dbt extension recommendation
+15:58:18.562402 [info ]: Success Project created successfully!
+15:58:18.562584 [info ]: Info Project name: analytics
+15:58:18.562602 [info ]: Info Project directory: analytics
+15:58:18.562774 [info ]: Info Setting up your profile...
+15:58:18.564406 [info ]: Info Creating new profile...
+15:58:48.927175 [error]: [IoError (dbt1001)]: Failed to get adapter selection: IO error: read interrupted
+15:58:48.968734 [info ]: 
+==================== Execution Summary =====================
+Finished 'init' with 1 error [30.4s]
+==================== 2026-11-15T15:59:35.380883Z | 01a1dfef-77c4-7132-9494-2b8d5e4f7539 ====================
+15:59:35.384016 [info ]: Installing dbt project and profile setup
+15:59:35.389428 [info ]: Info Created .vscode/extensions.json with dbt extension recommendation
+15:59:35.390466 [info ]: Success Project created successfully!
+15:59:35.390654 [info ]: Info Project name: analytics
+15:59:35.390668 [info ]: Info Project directory: analytics
+15:59:35.654464 [info ]: 
+==================== Execution Summary =====================
+Finished 'init' successfully [273ms]
